@@ -22,7 +22,12 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
+ * Sektch 1
+ You can lighten each small area of Seattle to see informations on every dot(house). When the mouse clicks on a certain area, other areas become grey(faded).
 ![image](/draft1.jpg)
+
+ * Sketch 2
+ You can see the average basement area over built year. When you click the line, other sections becomes grey. Because there are too many information on this visualization. If you're only interested in basement area or living area, you can click on the corresponding line.
 ![image](/draft2.png)
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine)
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
