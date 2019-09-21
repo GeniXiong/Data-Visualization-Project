@@ -33,4 +33,4 @@ The following tasks and questions will drive the visualization and interaction d
 ## Open Questions
 
  * If I want to show the price distribution for floors distribution of the house, drawing a map of Seattle might be helpful and clear to understand. I don't know if there can be a way to draw a map of Seattle and with lines separating different zipcode. 
- * Beacause prices are too distributed, I want to split price into ordered catogories, that means 0 ~ $200K, 200K ~ 500K, 500K ~ 1000K, >1000K, and mark them in different color in the Seattle map.
+ * Beacause prices are too distributed, I want to split price into ordered catogories, that means 0 ~ $200K, $200K ~ $500K, $500K ~ $1000K, >$1000K, and mark them in different color in the Seattle map.
