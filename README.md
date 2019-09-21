@@ -15,10 +15,10 @@ I’ve created a proof of concept visualization of this data. Scatter Plot desig
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * What is the distribution for average house prices accroding to it's location(zipcode)?
+ * How is house prices relate to the number of bedrooms and bathrooms?
+ * Are houses that were newly built tend to have smaller basement? (The area of basement according to built-year)
+ * How are the floors change over built time?
 
 ## Sketches
 
@@ -27,4 +27,4 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+If I want to show the price distribution for floors distribution of the house, drawing a map of Seattle might be helpful and clear to understand. I don't know if there can be a way to draw a map of Seattle and with lines separating different zipcode.
