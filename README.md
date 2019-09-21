@@ -27,7 +27,7 @@ The following tasks and questions will drive the visualization and interaction d
 ![image](/draft1.jpg)
 
  * Sketch 2
- You can see the average basement area over built year. When you click the line, other sections becomes grey. Because there are too many information on this visualization. If you're only interested in basement area or living area, you can click on the corresponding line.
+ You can see the average basement area over built year. When you click the line, other sections becomes grey. Because there are too many information on this visualization. If you're only interested in basement area or parking lot area, you can click on the corresponding line.
 ![image](/draft2.png)
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine)
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
