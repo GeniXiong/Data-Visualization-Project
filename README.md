@@ -22,9 +22,12 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
+![image](/vizhub_draft.png)]
+![image](/vizhub_draft.png)]
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine)
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
 
 ## Open Questions
 
-If I want to show the price distribution for floors distribution of the house, drawing a map of Seattle might be helpful and clear to understand. I don't know if there can be a way to draw a map of Seattle and with lines separating different zipcode.
+ * If I want to show the price distribution for floors distribution of the house, drawing a map of Seattle might be helpful and clear to understand. I don't know if there can be a way to draw a map of Seattle and with lines separating different zipcode. 
+ * Beacause prices are too distributed, I want to split price into ordered catogories, that means 0 ~ $200K, 200K ~ 500K, 500K ~ 1000K, >1000K.
