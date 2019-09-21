@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is 2015 Seattle House Price data
+The data I propose to visualize for my project is 2015 Seattle House Price data.
 
 ## Prototypes
 
@@ -15,7 +15,7 @@ I’ve created a proof of concept visualization of this data. Scatter Plot desig
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * What is the distribution for average house prices accroding to it's location(zipcode)?
+ * What is the distribution for house prices accroding to it's location(zipcode)?
  * How is house prices relate to the number of bedrooms and bathrooms?
  * Are houses that were newly built tend to have smaller basement? (The area of basement according to built-year)
  * How are the floors change over built time?
@@ -23,16 +23,14 @@ The following tasks and questions will drive the visualization and interaction d
 ## Sketches
 
  * Sektch 1
- You can lighten each small area of Seattle to see informations on every dot(house). When the mouse clicks on a certain area, other areas become grey(faded).
+ You can lighten each small area of Seattle to see informations on every dot(house). When the mouse clicks on a certain area, other areas become grey(faded). So I can see the price distribution. 
 ![image](/draft1.jpg)
 
  * Sketch 2
- You can see the average basement area over built year. When you click the line, other sections becomes grey. Because there are too many information on this visualization. If you're only interested in basement area or parking lot area, you can click on the corresponding line.
+ You can see the average basement area over built year. When you click the line, other sections becomes grey. Because there are too many information on this visualization. If you're only interested in basement area or parking lot area, you can click on the corresponding line. From the line we can see modern house may or may not have smaller basement. From this scatter plot, we can also see modern built house mostly have 2 floors.
 ![image](/draft2.png)
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
 
 ## Open Questions
 
  * If I want to show the price distribution for floors distribution of the house, drawing a map of Seattle might be helpful and clear to understand. I don't know if there can be a way to draw a map of Seattle and with lines separating different zipcode. 
- * Beacause prices are too distributed, I want to split price into ordered catogories, that means 0 ~ $200K, 200K ~ 500K, 500K ~ 1000K, >1000K.
+ * Beacause prices are too distributed, I want to split price into ordered catogories, that means 0 ~ $200K, 200K ~ 500K, 500K ~ 1000K, >1000K, and mark them in different color in the Seattle map.
