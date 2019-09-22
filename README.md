@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is 2015 Seattle House Price data.
+The data I propose to visualize for my project is 2015 Seattle House Price data. [Link to data](https://gist.github.com/GeniXiong/e7c6bf03262966c543faa26805bf8bc7).
 
 ## Prototypes
 
