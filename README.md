@@ -2,7 +2,10 @@
 
 ## Data
 
-The data I propose to visualize for my project is 2015 Seattle House Price data. [Link to data](https://gist.github.com/GeniXiong/e7c6bf03262966c543faa26805bf8bc7).
+The data I propose to visualize for my project is 2015 Seattle House Price data. [Link to data](https://gist.github.com/GeniXiong/e7c6bf03262966c543faa26805bf8bc7). This is the 2015 Seattle House Price dataset published at Kaggle Seattle House Sales Prices last updated date is 2019-01-28.
+
+It's a Scatter Plot designed to emphasize clustering of prices, year built, floors of the house, and living areas.
+Each row of the table represents a house, including date, price, bedrooms, bathrooms, floors, sqft above, sqft basement, year built, year renovated, zipcode, lat, long, sqft living, sqft lot.
 
 ## Prototypes
 
