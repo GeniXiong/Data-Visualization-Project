@@ -26,10 +26,12 @@ The following tasks and questions will drive the visualization and interaction d
 ## Sketches
 
  * Sektch 1
+ 
  You can lighten each small area of Seattle to see informations on every dot(house). When the mouse clicks on a certain area, other areas become grey(faded). So I can see the price distribution. 
 ![image](https://user-images.githubusercontent.com/35828260/65391620-3abf4a00-dd39-11e9-8344-4c94bbffed47.png)
 
  * Sketch 2
+ 
  You can see the average basement area over built year. When you click the line, other sections becomes grey. Because there are too many information on this visualization. If you're only interested in basement area or parking lot area, you can click on the corresponding line. From the line we can see modern house may or may not have smaller basement. From this scatter plot, we can also see modern built house mostly have 2 floors.
 ![image](https://user-images.githubusercontent.com/35828260/65391630-5165a100-dd39-11e9-9541-c5ad15dc4142.png)
 
