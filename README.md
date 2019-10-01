@@ -18,11 +18,38 @@ I’ve created a proof of concept visualization of this data. Scatter Plot desig
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * What is the distribution for house prices accroding to it's location(zipcode)?
- * How is house prices relate to the number of bedrooms and bathrooms?
+ * What is the distribution for house prices accroding to it's location(latitude, longitude)?
  * Are houses that were newly built tend to have smaller basement? (The area of basement according to built-year)
  * How are the floors change over built time?
+ 
+ ## Interactions
 
+The following interactions will answer the above questions for this project:
+
+ * When clicking on different sections on the map of Seattle, the specific section will highlight and only this area's price will be shown.
+ * Add a timeline view that has brushing, which can feed into a map view and show the data trend.
+ * Add menus for data to change x and y axis.
+ 
+ ## Schedule of Deliverables
+ 
+ * Adding menus and choosing the correct range for x axis and y axis. Because not all options can share the same format, so group some options only for y axis and some options only for x axis.
+   - 1 week to finish
+   - By Oct 8, 2019
+ * Forming a map of Seattle ordered by zipcode and draw points of data according to latitude and longitude. This may take longer time, if zipcode is not possible, at least drawing a map and points can be shown according to latitude and longitude.
+   - 1~2 weeks to finish
+   - By Oct 20, 2019
+ * Adding interactive part of forming timeline brushes.
+   - 1~2 weeks to finish
+   - By Oct 24, 2019
+  * Adding interactive part of highlighting different areas.
+   - 1~2 weeks to finish
+   - By Oct 24, 2019
+ * Beautify the data visualization, set correct styling for the project.
+   - choose correct, pleasing to the eye color, and set correct margins, fonts...
+   - Sum up everything, including links, documentations.
+   - 1 week to finish
+   - By Oct 31, 2019
+ 
 ## Sketches
 
  * Sektch 1
@@ -35,7 +62,5 @@ The following tasks and questions will drive the visualization and interaction d
  You can see the average basement area over built year. When you click the line, other sections becomes grey. Because there are too many information on this visualization. If you're only interested in basement area or parking lot area, you can click on the corresponding line. From the line we can see modern house may or may not have smaller basement. From this scatter plot, we can also see modern built house mostly have 2 floors.
 ![image](https://user-images.githubusercontent.com/35828260/65391630-5165a100-dd39-11e9-9541-c5ad15dc4142.png)
 
-## Open Questions
 
- * If I want to show the price distribution for floors distribution of the house, drawing a map of Seattle might be helpful and clear to understand. I don't know if there can be a way to draw a map of Seattle and with lines separating different zipcode. 
- * Beacause prices are too distributed, I want to split price into ordered catogories, that means 0 ~ $200K, $200K ~ $500K, $500K ~ $1000K, >$1000K, and mark them in different color in the Seattle map.
+
