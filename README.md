@@ -33,7 +33,7 @@ The following interactions will answer the above questions for this project:
  
  ## Schedule of Deliverables
  
- * (Complete!)Adding menus and choosing the correct range for x axis and y axis. Because not all options can share the same format, so group some options only for y axis and some options only for x axis. For X value, there are year build and year renovated to choose. For Y value, there are: house price, living areas, basement areas, parking areas to choose. Also, latitude and longitude data are parsed into data for further use. For drawing a map of Seattle, I've found a source to use. [Reference Source for Seattle Map](https://github.com/augbog/D3-Seattle-Crime-Rate)
+ * (Complete!)Adding menus and choosing the correct range for x axis and y axis. Because for this project, X value represents year, Y value represents all quantative value. For X value, there are year build and year renovated to choose. For Y value, there are: house price, living areas, basement areas, parking areas to choose. Floors are distinguished by colors. Also, latitude and longitude data are parsed into data for further use. For drawing a map of Seattle, I've found a source to use [Reference Source for Seattle Map](https://github.com/augbog/D3-Seattle-Crime-Rate).
    - 1 week to finish
    - By Oct 10, 2019
  * Forming a map of Seattle ordered by zipcode and draw points of data according to latitude and longitude. This may take longer time, if zipcode is not possible, at least drawing a map and points can be shown according to latitude and longitude.
