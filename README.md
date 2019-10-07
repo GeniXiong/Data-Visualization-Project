@@ -11,7 +11,7 @@ Each row of the table represents a house, including date, price, bedrooms, bathr
 
 I’ve created a proof of concept visualization of this data. Scatter Plot designed to emphasize clustering of prices, year built, floors of the house, and living areas. Each circle represents a certain house. The size of the circle represent living areas of the house. Different colors represents floor numbers.
 
-[![image](https://user-images.githubusercontent.com/35828260/65391604-18c5c780-dd39-11e9-8966-8c1d9352b722.png)](https://vizhub.com/GeniXiong/0e9425dbf1ac437a8cc230f8878cf20b)
+[![image](https://user-images.githubusercontent.com/35828260/65391604-18c5c780-dd39-11e9-8966-8c1d9352b722.png)](https://vizhub.com/GeniXiong/1f401bd2405a440aa32b025d74ad9e95)
 
 
 ## Questions & Tasks
