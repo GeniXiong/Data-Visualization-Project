@@ -29,6 +29,7 @@ The following interactions will answer the above questions for this project:
  * Select different region on the map will show a small line char displaying crime reports for this region (according to region number in the data).
  
  ## Schedule of Deliverables
+ 
  * (Complete!) Forming a map of Boston and draw points of data according to latitude and longitude. Draw crime points on the map.
   - 1~2 weeks to finish
   - By Oct 17, 2019   
