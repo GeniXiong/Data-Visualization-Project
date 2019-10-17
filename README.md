@@ -41,7 +41,7 @@ The following interactions will answer the above questions for this project:
  * Adding interactive part of highlighting different areas. 
   - 1~2 weeks to finish
   - By Oct 24, 2019  
-* Beautify the data visualization, set correct styling for the project.
+ * Beautify the data visualization, set correct styling for the project.
   - choose correct, pleasing to the eye color, and set correct margins, fonts...
   - Sum up everything, including links, documentations.
   - 1 week to finish
