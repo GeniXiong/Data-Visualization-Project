@@ -2,49 +2,50 @@
 
 ## Data
 
-The data I propose to visualize for my project is 2015 Seattle House Price data. [Link to data](https://gist.github.com/GeniXiong/e7c6bf03262966c543faa26805bf8bc7). This is the 2015 Seattle House Price dataset published at Kaggle Seattle House Sales Prices last updated date is 2019-01-28.
-
-It's a Scatter Plot designed to emphasize clustering of prices, year built, floors of the house, and living areas.
-Each row of the table represents a house, including date, price, bedrooms, bathrooms, floors, sqft above, sqft basement, year built, year renovated, zipcode, lat, long, sqft living, sqft lot.
+The data I propose to visualize for my project is Boston crime incident reports (2019/08/01 ~ now). [Link to data](https://gist.github.com/GeniXiong/543400f47d4b937a6379a9105e70c47f). This is the Boston Crime dataset published at Analyze Boston.
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. Scatter Plot designed to emphasize clustering of prices, year built, floors of the house, and living areas. Each circle represents a certain house. The size of the circle represent living areas of the house. Different colors represents floor numbers.
+I’ve created a proof of concept visualization of this data. Scatter Plot designed to emphasize clustering of crimes in Boston. It's a map of Boston, every crime report is pinned on map according to latitude and longitude. Different color representing the degrees of a crime ([UCR](https://www.fbi.gov/services/cjis/ucr)). Each circle represents a certain crime. Also time brushes can be used to select different time span to show crimes in a specific time period.
 
 [![image](https://user-images.githubusercontent.com/35828260/66327760-5d389200-e8f9-11e9-87da-f533e7119724.png)
-](https://vizhub.com/GeniXiong/1f401bd2405a440aa32b025d74ad9e95)
+](https://vizhub.com/GeniXiong/4d0342a854f74e579e16ab743f6b647f)
 
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * What is the distribution for house prices according to its location (latitude, longitude)?
- * Are houses that were newly built tend to have smaller basement? (The area of basement according to built year)
- * How are the floors change over built time?
+ * What is the distribution for crimes according to its location (latitude, longitude)?
+ * How are the crimes involve with time?
+ * Each crime distribution in Boston?
  
  ## Interactions
 
 The following interactions will answer the above questions for this project:
 
- * When clicking on different sections on the map of Seattle, the specific section will highlight and only this area's price will be shown.
- * Add a timeline view that has brushing, which can feed into a map view and show the data trend.
- * Add menus for data to change x and y axis.
+ * When brushing with time period, only crimes in this time period will show on the map, others will be grey.
+ * From the menus, x and y values can be changed.
+ * Select different region on the map will show a small line char displaying crime reports for this region (according to region number in the data).
  
  ## Schedule of Deliverables
  
- * (Complete!)Adding menus and choosing the correct range for x axis and y axis. Because for this project, X value represents year, Y value represents all quantative value. For X value, there are year build and year renovated to choose. For Y value, there are: house price, living areas, basement areas, parking areas to choose. Floors are distinguished by colors. Also, latitude and longitude data are parsed into data for further use. For drawing a map of Seattle, I've found a source to use [Reference Source for Seattle Map](https://github.com/augbog/D3-Seattle-Crime-Rate).
+  * (Complete!) Forming a map of Boston and draw points of data according to latitude and longitude. Draw crime points on the map.
+   - 1~2 weeks to finish
+   - By Oct 17, 2019
+   
+  * (Complete!) Adding interactive part of forming timeline brushes.
+   - 1~2 weeks to finish
+   - By Oct 17, 2019
+   
+ * Adding menus and choosing the correct range for x axis and y axis.
    - 1 week to finish
-   - By Oct 10, 2019
- * Forming a map of Seattle ordered by zipcode and draw points of data according to latitude and longitude. This may take longer time, if zipcode is not possible, at least drawing a map and points can be shown according to latitude and longitude.
-   - 1~2 weeks to finish
-   - By Oct 20, 2019
- * Adding interactive part of forming timeline brushes.
-   - 1~2 weeks to finish
    - By Oct 24, 2019
+   
   * Adding interactive part of highlighting different areas.
    - 1~2 weeks to finish
    - By Oct 24, 2019
+   
  * Beautify the data visualization, set correct styling for the project.
    - choose correct, pleasing to the eye color, and set correct margins, fonts...
    - Sum up everything, including links, documentations.
