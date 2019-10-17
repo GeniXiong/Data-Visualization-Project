@@ -32,20 +32,16 @@ The following interactions will answer the above questions for this project:
  
   * (Complete!) Forming a map of Boston and draw points of data according to latitude and longitude. Draw crime points on the map.
    - 1~2 weeks to finish
-   - By Oct 17, 2019
-   
+   - By Oct 17, 2019   
   * (Complete!) Adding interactive part of forming timeline brushes.
    - 1~2 weeks to finish
-   - By Oct 17, 2019
-   
+   - By Oct 17, 2019  
  * Adding menus and choosing the correct range for x axis and y axis.
    - 1 week to finish
-   - By Oct 24, 2019
-   
+   - By Oct 24, 2019  
   * Adding interactive part of highlighting different areas.
    - 1~2 weeks to finish
-   - By Oct 24, 2019
-   
+   - By Oct 24, 2019  
  * Beautify the data visualization, set correct styling for the project.
    - choose correct, pleasing to the eye color, and set correct margins, fonts...
    - Sum up everything, including links, documentations.
