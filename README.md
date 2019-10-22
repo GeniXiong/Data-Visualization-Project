@@ -8,7 +8,7 @@ The data I propose to visualize for my project is Boston crime incident reports 
 
 I’ve created a proof of concept visualization of this data. Scatter Plot designed to emphasize clustering of crimes in Boston. It's a map of Boston, every crime report is pinned on map according to latitude and longitude. Different color representing the degrees of a crime ([UCR](https://www.fbi.gov/services/cjis/ucr)). Each circle represents a certain crime. Also time brushes can be used to select different time span to show crimes in a specific time period.
 
-[![image](https://user-images.githubusercontent.com/35828260/67050378-5f270000-f106-11e9-931c-b6224afab5e3.png)
+[![image](https://user-images.githubusercontent.com/35828260/67341253-3edbb480-f4fd-11e9-8333-65abb7437b44.png)
 ](https://vizhub.com/GeniXiong/4d0342a854f74e579e16ab743f6b647f)
 
 
