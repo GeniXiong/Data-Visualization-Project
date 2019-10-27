@@ -41,7 +41,7 @@ This is the 2015 Seattle House Price dataset published at [Kaggle Seattle House 
  * Different colors classifies the floors of a house.
  
 ### Future Work
- * It will have hover effect: when mouse hovers on a certain floor, only house of this floor will be highlught, others will fade.
+ * It will have hover effect: when mouse hovers on a certain floor, only house of this floor will be highlighted, others will fade.
 
 
 
