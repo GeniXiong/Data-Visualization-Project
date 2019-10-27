@@ -15,6 +15,7 @@ The data for my project is Boston crime incident reports (2019/08/01 ~ now). [Li
  ### Features
 
  * A time brush can be applied to visualize crimes in a time period.
+ * Different colors classifies urc degree.
  
 ### Future Work
  * It will have a stack layout values of ucr for data, not a whole block.
@@ -35,11 +36,12 @@ This is the 2015 Seattle House Price dataset published at [Kaggle Seattle House 
  
  ### Features
 
- * A time brush can be applied to visualize crimes in a time period.
+ * X axis has multiple choices to choose: Year Built, Year Renovated.
+ * Y axis has multiple choices to choose: Price, Living area, Basement area, Parking area.
+ * Different colors classifies the floors of a house.
  
 ### Future Work
- * It will have a stack layout values of ucr for data, not a whole block.
- * It will highlight the crimes in a certain region when mouse hovers in this region.
+ * It will have hover effect: when mouse hovers on a certain floor, only house of this floor will be highlught, others will fade.
 
 
 
