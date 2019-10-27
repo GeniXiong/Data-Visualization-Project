@@ -18,7 +18,7 @@ The data for my project is Boston crime incident reports (2019/08/01 ~ now). [Li
  * Different colors classifies urc degree.
  
 ### Future Work
- * It will have a stack layout values of ucr for data, not a whole block.
+ * It will have a stack layout values of ucr for data, instead of a whole block.
  * It will highlight the crimes in a certain region when mouse hovers in this region.
  
 ## Project 2 - Seattle House Report 2015
