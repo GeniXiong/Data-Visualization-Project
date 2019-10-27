@@ -28,7 +28,7 @@ The data for my project is Boston crime incident reports (2019/08/01 ~ now). [Li
  * Each row of the table represents a house, including date, price, bedrooms, bathrooms, floors, sqft above, sqft basement, year built, year renovated, zipcode, lat, long, sqft living, sqft lot.
 
 [![image](https://user-images.githubusercontent.com/35828260/67637668-2e3b8d80-f8b3-11e9-9db0-abdb06c31cb5.png)
-](https://vizhub.com/GeniXiong/4d0342a854f74e579e16ab743f6b647f)
+](https://vizhub.com/GeniXiong/1f401bd2405a440aa32b025d74ad9e95)
 
 ### Data
 
