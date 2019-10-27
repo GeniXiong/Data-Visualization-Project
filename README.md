@@ -27,7 +27,7 @@ The data for my project is Boston crime incident reports (2019/08/01 ~ now). [Li
  * I’ve created a proof of concept visualization of this data. Scatter Plot designed to emphasize clustering of prices, year built, floors of the house, and living areas. Each circle represents a certain house. The size of the circle represent living areas of the house. Different colors represents floor numbers.
  * Each row of the table represents a house, including date, price, bedrooms, bathrooms, floors, sqft above, sqft basement, year built, year renovated, zipcode, lat, long, sqft living, sqft lot.
 
-[![image](https://user-images.githubusercontent.com/35828260/67341253-3edbb480-f4fd-11e9-8333-65abb7437b44.png)
+[![image](https://user-images.githubusercontent.com/35828260/67637668-2e3b8d80-f8b3-11e9-9db0-abdb06c31cb5.png)
 ](https://vizhub.com/GeniXiong/4d0342a854f74e579e16ab743f6b647f)
 
 ### Data
